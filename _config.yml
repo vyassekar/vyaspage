@@ -5,8 +5,8 @@
 title: Homepage of Vyas Sekar # the website title (if blank, full name will be used instead)
 first_name: Vyas 
 last_name: Sekar
-url:  # the base hostname & protocol for your site
-baseurl: # the subpath of your site, e.g. /blog/
+url:  https://users.ece.cmu.edu # the base hostname & protocol for your site
+baseurl: /~vsekar # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 
 # -----------------------------------------------------------------------------
@@ -21,7 +21,6 @@ footer_fixed: true
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
 
 # -----------------------------------------------------------------------------
